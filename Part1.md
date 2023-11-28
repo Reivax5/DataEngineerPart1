@@ -94,7 +94,6 @@ This is the most important part of a data pipeline, because if the data is not t
 Right now, it is your turn to transform values, I will give you a list of all the transformations you will have to do a good dataset:
 
 - Add a new column called "Revenue" that is the number of employees multiplied by 1000
-- Filter the companies that have less than 
 - Add a new column called "Age" that is the current year minus the year the company was founded
 - Add a new column called "Website" that is the website of the company without the "http://" part
 - Transform all the rows with "United States of America" as their country to "USA"
